@@ -1,19 +1,8 @@
 # hello-plugin
 
-this is a plugin for hello world
+this is a plugin which says hello world
 
 ## Install
+npm i   // to install all the dependencies
 
-```bash
-npm install hello-plugin
-npx cap sync
-```
-
-## API
-
-<docgen-index></docgen-index>
-
-<docgen-api>
-<!-- run docgen to generate docs from the source -->
-<!-- More info: https://github.com/ionic-team/capacitor-docgen -->
-</docgen-api>
+important --> to use this plugin you need to install it in your ionic app using npm install <../ plugin path>
